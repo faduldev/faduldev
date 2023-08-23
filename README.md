@@ -1,11 +1,36 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+## Hi! I'm Jairo Fadul ✋
 
-### Hi 👋
-I am software engineering looking for opportunities and collabaration in projects related to backend and mobile using Kotlin and Java.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
+### Catching up on backend/frontend/mobile technologies.
+### Professor at the State University of Pará - Brazil, in courses:
+* Software Engineering
+* Systems Analysis and Development Technologies
+* Production Engineering
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[Curriculum Lattes](http://lattes.cnpq.br/5482391365956398)
+
+
+
+
+<div align="center">
+  <a href="https://github.com/fadultech">
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadultech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   -->
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadultech&layout=compact&langs_count=7&theme=dark"/>  
+</div>
+
+  
+### Technologies used
+  
+  <div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  </div><br/>
+  
+
+
+### Contact:
+ <p>jairo@fadul.dev</p>

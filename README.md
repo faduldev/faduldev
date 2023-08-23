@@ -1,11 +1,15 @@
 ## Hi! I'm Jairo Fadul ✋
 
 ### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
-### Catching up on backend/frontend/mobile technologies.
+### Catching up himself with backend/mobile using Kotlin/Java technologies.
 ### Professor at the State University of Pará - Brazil, in courses:
 * Software Engineering
 * Systems Analysis and Development Technologies
 * Production Engineering
+
+
+### Looking for opportunities of collabaration in projects related to backend and mobile using Kotlin/Java.
+
 
 
 [Curriculum Lattes](http://lattes.cnpq.br/5482391365956398)

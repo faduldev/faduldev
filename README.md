@@ -1,5 +1,11 @@
-### 👋  Hello!  Welcome  to  my  Github  profile.
+## 👋  Hello!  Welcome  to  my  Github  profile.
 ### My  name  is  Jairo Fadul  and  my  nickname  is  "faduldev"!
+
+<div> 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+</div>
 
 ### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
 ### Updating myself with backend/mobile/multiplatform technologies using Kotlin.
@@ -10,19 +16,26 @@
 
 
 <!-- ### Looking for opportunities of collabaration in projects related to backend and mobile using Kotlin.  -->
-
+<div> 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+</div>
 
 
 [Curriculum Lattes](http://lattes.cnpq.br/5482391365956398)
 
-
-
-
+<div> 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+</div>
+<!--
 <div align="center">
   <a href="https://github.com/faduldev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduldev&layout=compact&langs_count=7&theme=dark"/>  
 </div>
-
+-->
   
 ### Technologies used
   <div>
@@ -33,9 +46,9 @@
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   </div>        
-          
+        &nbsp;
+        &nbsp;
+        &nbsp;
   
-
-
 ### Contact
  <p>jairo@fadul.dev</p>

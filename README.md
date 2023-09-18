@@ -1,4 +1,5 @@
-## Hi! I'm Jairo Fadul ✋
+### 👋  Hello!  Welcome  to  my  Github  profile.
+### My  name  is  Jairo Fadul  and  my  nickname  is  "faduldev"!
 
 ### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
 ### Catching up himself with backend/mobile technologies using Kotlin.

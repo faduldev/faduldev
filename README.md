@@ -1,5 +1,5 @@
-## 👋  Hello!  Welcome  to  my  Github  profile!
-### My  name  is  Jairo Fadul  and  my  nickname  is  "faduldev"!
+### 👋  Hello!  Welcome  to  my  Github  profile!
+## My  name  is  Jairo Fadul  and  my  nickname  is  "faduldev"!
 
 <br/>
 

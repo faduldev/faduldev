@@ -3,7 +3,7 @@
 
 <br/>
 
-### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
+### I am a Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
 ### Updating myself with backend/mobile/multiplatform technologies using Kotlin. 
 ### Professor at the State University of Pará - Brazil, in courses:
 * Software Engineering

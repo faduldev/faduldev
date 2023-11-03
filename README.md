@@ -17,7 +17,7 @@
 
 &nbsp;
   
-### Technologies used in this profile:
+### Main technologies used in this profile:
   <div>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="60" height="60" /> 
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="90" height="90" />

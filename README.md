@@ -3,8 +3,8 @@
 
 ### I am a Software Engineer with systems development experience in:
 * IBM/Mainframe environment using Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas
-* Windows/DOS environment using Visual Basic, Delphi, PHP, HTML/CSS/JS, Clipper.
-### Updating myself with new backend/mobile/multiplatform technologies. 
+* Windows/DOS environment using Visual Basic, Clipper, Delphi, PHP, HTML/CSS/JS, Java, Kotlin.
+### Currently a mobile solutions developer. 
 ### Professor at the State University of Pará - Brazil, in courses:
 * Software Engineering
 * Systems Analysis and Development Technologies

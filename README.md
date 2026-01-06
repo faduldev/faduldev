@@ -1,40 +1,16 @@
-### 👋  Hello!  Welcome  to  my  Github  profile!
-## My  name  is  Jairo Fadul  and  my  nickname  is  "*faduldev*"!
+## Olá, eu sou o Fadul. 👋 
+### Engenheiro de Software | Especialista em Soluções Multiplataforma | Criador de soluções de alto impacto.
 
-### I am a Software Engineer with systems development experience in:
-* IBM/Mainframe environment using Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas
-* DOS/Windows/Web environment using Visual Basic, Clipper, Delphi, PHP, HTML/CSS/JS, Java, Kotlin.
-### Currently a mobile solutions developer. 
-### Professor at the State University of Pará - Brazil, in courses:
-* Software Engineering
-* Systems Analysis and Development Technologies
-* Production Engineering
+### Sob a marca Fadul.dev, desenvolvo sistemas e aplicativos focados em eficiência e experiência do usuário.
+### Minha especialidade é o ecossistema Flutter, criando aplicações robustas que rodam nativamente em qualquer dispositivo.
 
-&nbsp;
+### Especialista em transformar problemas complexos em sistemas eficientes e escaláveis. Sob a marca Fadul.dev, foco em entregar código limpo, arquitetura sólida e performance de elite.
 
-[Curriculum Lattes](http://lattes.cnpq.br/5482391365956398)
+* Foco Técnico: Desenvolvimento iOS, Android, Web, Windows, macOS e Linux com Flutter.
+* Diferencial: Arquitetura limpa para garantir que o projeto seja fácil de manter e evoluir.
+* Objetivo: Transformar requisitos de negócio em código de alta performance.
 
 
-&nbsp;
   
-### Main technologies used in this profile:
-  <div>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="60" height="60" /> 
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="90" height="90" />
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="90" height="90" />
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="60" height="60" />
-  </div>        
-
-&nbsp;
-  
-### Contact
+#### Contato
  <p>jairo@fadul.dev</p>
- 
-<!--
-<div align="center">
-  <a href="https://github.com/faduldev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduldev&layout=compact&langs_count=7&theme=dark"/>  
-</div>
-
-### Looking for opportunities of collabaration in projects related to backend and mobile using Kotlin. 
--->
